@@ -1,0 +1,9 @@
+Building renesis
+
+See doc/readme-qt.rst for instructions on building renesis QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of renesis.
+
+See doc/build-*.txt for instructions on building renesisd,
+the intended-for-services, no-graphical-interface, reference
+implementation of renesis.
