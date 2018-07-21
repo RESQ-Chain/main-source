@@ -28,6 +28,7 @@ namespace Checkpoints
         ( 100,     uint256("0x74e20d29c46638f57e930e3a02b78a2839768cf8294e3fc6380775080a34adcf") ) // last premine
         ( 340,     uint256("0x03b681feab88ac81d57b8479e0d7d605ea0f171d5dcbdf048f49948517fc81b3") ) // after ANN first checkpoint
         ( 500,     uint256("0xafd5bc46defb06af616fd183e01c0c5ffff89829b85bc8875b875f52485ad0d4") ) // 500th check
+        ( 1000,    uint256("0xc7009356e3fc41a520730a50313b67dd6cbaa77e22e0ebe1180d18c8ba252686") ) // 1K check
         ;
 
     // TestNet checkpoints
