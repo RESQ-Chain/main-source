@@ -66,6 +66,10 @@ Dependency Build Instructions: Ubuntu & Debian
 ----------------------------------------------
 sudo apt-get install build-essential libssl-dev libdb++-dev libdb-dev libboost-all-dev libqrencode-dev libminiupnpc-dev
 
+Enter leveldb folder and do chmod +x build_detect_platform && make clean && make libleveldb.a libmemenv.a -j2
+
+You have an option to do make after that inside leveldb and run make -f makefile.unix -j2
+
 If using Boost 1.37, append -mt to the boost libraries in the makefile.
 
 
