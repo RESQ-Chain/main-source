@@ -31,6 +31,7 @@ namespace Checkpoints
         ( 1000,    uint256("0xc7009356e3fc41a520730a50313b67dd6cbaa77e22e0ebe1180d18c8ba252686") ) // 1K check
         ( 2300,    uint256("0x8221a5e4a0020739b34632d432f3c84281401b250dc0c5894c46331f1ea3ecaf") ) // next check
         ( 3808,    uint256("0x6b1ee9ce991c3727521ecbdde0eaf962f2a57d0666fa0d6910b29ff768351321") ) // next check
+        ( 5463,    uint256("0x2317dd1b4b86c9b6da01c4c65e64aba6ee6185ddfb881d93d0cd78d249c71f7b") ) // check after reward doubling
         ;
 
     // TestNet checkpoints
