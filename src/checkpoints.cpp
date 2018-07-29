@@ -18,7 +18,7 @@ static const int nCheckpointSpan = 800;
 namespace Checkpoints
 {
     typedef std::map<int, uint256> MapCheckpoints;
-
+     // MainNet checkpoints
     static MapCheckpoints mapCheckpoints =
         boost::assign::map_list_of
         (   0,     uint256("0x000009ad2e5d9ec106c7dac2ab5c9e02e880b350e176d3ad1483a9c2c11803f6") ) // genblock
