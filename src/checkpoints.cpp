@@ -39,6 +39,7 @@ namespace Checkpoints
         ( 18919,   uint256("0x8e7c0910be16388ae8bd6c98ca150fa407094e03fd63cf3d9eff4a29da64aa48") ) // next check
         ( 20189,   uint256("0x329cb3103d0f7d3b6fd99fecb6c4163ea8f8930358753a82949ce21813f3323d") ) // next check
         ( 21528,   uint256("0xa7b891d3c43852e8e362a3ade960ac48bfc04b9e27166079718d9cf8f5ae275a") ) // next check
+        ( 22856,   uint256("0xfb695c16ba66445d0af555a32bacaa70e501cfc7df5144aef19c951dbb01db14") ) // recovering from viral fever hav0k
         ;
 
     // TestNet checkpoints
