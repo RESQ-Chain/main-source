@@ -1,5 +1,5 @@
 // Copyright (c) 2009-2012 The Bitcoin developers
-// Copyright (c) 2018 Hav0k, Renesis Group
+// Copyright (c) 2018 Hav0k, Renesis Group & The Renesis Community
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -41,6 +41,7 @@ namespace Checkpoints
         ( 21528,   uint256("0xa7b891d3c43852e8e362a3ade960ac48bfc04b9e27166079718d9cf8f5ae275a") ) // next check
         ( 22856,   uint256("0xfb695c16ba66445d0af555a32bacaa70e501cfc7df5144aef19c951dbb01db14") ) // hav0k recovering from viral fever
         ( 23983,   uint256("0xa3b7df743f13dd7132e52860d78a82e729ed8ba093819ed937b46283ea4855d2") ) // hav0k with post viral cough
+        ( 25286,   uint256("0xf3002cf73bec54217e315650eaac0e795187ffbdbe9e763e9d6836e80b2b542c") ) // hav0k still has a cough
         ;
 
     // TestNet checkpoints
