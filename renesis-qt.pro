@@ -2,7 +2,7 @@ TEMPLATE = app
 DEFINES += fName1 fName2
 fName1 = "renesis-qt"
 macx:TARGET = renesis-qt
-VERSION = 1.0.0.0
+VERSION = 1.1.0.0
 QMAKE_TARGET_BUNDLE_PREFIX = co.renesis
 contains(QT_ARCH, i386) {
     fName2 = "-x86-v"
