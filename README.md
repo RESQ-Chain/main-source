@@ -10,7 +10,10 @@ Renesis is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. Renesis uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Renesis Wallet is the name of open source
-software which enables the use of this currency.
+software which enables the use of this currency. Renesis is also the name of its
+algorithm with v2 Renesis called Renesis XT hash. To continue with the ASIC 
+resistance promise, Renesis Project will implement the Renesis XT hash when it is
+needed.
 
 For more information, as well as an immediately useable, binary version of
 the Renesis Wallet software, see https://github.com/renesisgroup/wallets, or read the
