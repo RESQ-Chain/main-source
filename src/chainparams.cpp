@@ -111,6 +111,7 @@ public:
         vSeeds.push_back(CDNSSeedData("node4.renesis.io", "node4.renesis.io"));
         vSeeds.push_back(CDNSSeedData("node5.renesis.io", "node5.renesis.io"));
         vSeeds.push_back(CDNSSeedData("node6.renesis.io", "node6.renesis.io"));
+	vSeeds.push_back(CDNSSeedData("node7.renesis.io", "node7.renesis.io"));
         vSeeds.push_back(CDNSSeedData("he.crashed.online", "he.crashed.online"));
         vSeeds.push_back(CDNSSeedData("she.crashed.online", "she.crashed.online"));
         vSeeds.push_back(CDNSSeedData("it.crashed.online", "it.crashed.online"));
